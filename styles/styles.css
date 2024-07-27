@@ -330,8 +330,6 @@ body {
    gap: 82px;
 }
 
-.advantages__cart {}
-
 .advantages__img {
    margin-bottom: 60px;
    display: flex;
@@ -583,5 +581,3 @@ body {
 .footer__contacts {
    margin-bottom: 50px;
 }
-
-.footer__text {}
